@@ -1,5 +1,5 @@
 
-# One way to view these in jupyterlite (python in browser):
+## One way to view these in jupyterlite (python in browser):
 
 [Open jupyterlite lab to get python & UI](
 https://jupyterlite.readthedocs.io/en/latest/_static/lab/index.html
