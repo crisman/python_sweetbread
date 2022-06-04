@@ -6,8 +6,8 @@ https://jupyterlite.readthedocs.io/en/latest/_static/lab/index.html
 )
 
 Then from the menu:
-- File
-  - Open from URL...
+- 'File'
+  - 'Open from URL...'
 
 using the raw url for the files like:
 
