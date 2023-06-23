@@ -17,6 +17,9 @@ https://emscripten.org/
 https://pyodide.org/en/stable/
 ) which is a "port of CPython to WebAssembly/Emscripten" that
 "makes it possible to install and run Python packages in the browser".
+[Python REPL in your browser](
+https://pyodide.org/en/stable/console.html
+).
 
 [JupyterLite](
 https://jupyterlite.readthedocs.io/en/latest/
